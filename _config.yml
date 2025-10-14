@@ -54,9 +54,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author: Trevor Hoffman
+author: 
   name   : "Trevor Hoffman"
-  avatar : "/assets/images/Trevor.png"
+  avatar : "/assets/images/Trevor.png" # path to image in assets
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
