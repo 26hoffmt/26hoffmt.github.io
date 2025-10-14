@@ -57,7 +57,7 @@ plugins:
 author: 
   name   : "Trevor Hoffman"
   avatar : "/assets/images/Trevor.png" # path to image in assets
-  bio    : "My wesome biography constrained to a sentence or two goes here."
+  bio    : "Senior Engineering student displaying all of my projects."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
