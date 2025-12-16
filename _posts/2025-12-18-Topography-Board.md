@@ -11,6 +11,7 @@ tabs: [update]
 ### Photos and Media
 
 ![](/assets/images/Topo_Design.png)
+
 This is a picture of my Topo aspire design. I took the stl file of Lake Tahoe and turned it into a cnc file that could be milled.
 
 
