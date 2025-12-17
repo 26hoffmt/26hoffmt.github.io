@@ -13,7 +13,7 @@ When coming up for an idea for a project. Me and my partner wanted to do somethi
 ### Inspiration
 My inspiration of the fan design was from a youtube video made by funsion 360. I followed this video step-by-step in making my fan. However, as stated before, the fan did not work well because of the issues in printing. So I used the same model but gave it a couple tweeks to make it work. My blade has the same body but has more linear and boxy blades with slits to fit the blades into the body. 
 
-Here is the Youtube video: 
+Here is the Youtube video: https://www.youtube.com/watch?v=EMKbMTbNuKI 
 
 ### Design Specs
 Here is the design specs document that I created:
