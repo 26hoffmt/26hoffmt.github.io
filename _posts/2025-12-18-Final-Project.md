@@ -8,7 +8,14 @@ tabs: [update]
 ## This is my digital portfolio for my Final Project
 
 ### What is this project?
-When coming up for an idea for a project. Me and my partner wanted to do something that was actually useful to our lives. We had mamy ideas that might have been to ambitious but we settled on a fan project.
+When coming up for an idea for a project. Me and my partner wanted to do something that was actually useful to our lives. We had mamy ideas that might have been to ambitious but we settled on a fan project. We knew that we wanted the fan to have lights behind it in order to show cool designs while the fan is spinning. I was tasked with most of the work on making the fan while my partner worked on the electronics and the LED's. A succesful project will be good looking all around and show col light designs, all while actually cooling the area areound it.
+
+### Inspiration
+My inspiration of the fan design was from a youtube video made by funsion 360. I followed this video step-by-step in making my fan. However, as stated before, the fan did not work well because of the issues in printing. So I used the same model but gave it a couple tweeks to make it work. My blade has the same body but has more linear and boxy blades with slits to fit the blades into the body. 
+Here is the Youtube video: 
+
+### Design Specs
+Here is the design specs document that I created:
 
 ### Photos and Media
 ![](/assets/images/Fan_Proto_1.png)
