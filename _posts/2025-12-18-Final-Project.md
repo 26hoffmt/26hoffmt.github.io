@@ -17,6 +17,8 @@ Here is the Youtube video:
 ### Design Specs
 Here is the design specs document that I created:
 
+### What tools will I use?
+
 ### Photos and Media
 ![](/assets/images/Fan_Proto_1.png)
 
@@ -25,4 +27,7 @@ This is my original prototype of my fan. I used the inspiration youtube video to
 ![](/assets/images/Fan_Proto_2.png)
 
 This is my second prototype of my fan. I took my same disign of the first fan and changed the blades to be more linear and boxy. This made my fan way easier to print as opposed to what was happening before. Additionally, I also added slits in the body so that I could print the body and the blades seperatly, this also eased my printing process.
+
+
+# Daily Journal
 
