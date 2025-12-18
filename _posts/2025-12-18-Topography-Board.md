@@ -29,3 +29,38 @@ This project was very difficult due to the fact that it was a very new concept t
 
 This project was to make a 3.5x2.5 inch topography map of a mountain range. While this project was a cool way to make a gift or something cool to look at, it also helped me learn a new disgin software and hwo to use the cnc machine. While I don't anticipate using this machine for my personal project, I am glad that I have the skills to use it if needed. If I could go back again, I would not only choose my own topography area instead of the base Lake Tahoe that Mr.D provided, but I would also look more into aspire and cnc milling to see wht skills I would need beforehand.
 
+
+### Workflow
+
+1. Loosen the screws and remove the wood if there is one already in there.
+
+
+2. Place your wood and tighten the screws 
+
+
+3. Make sure your file is downloaded onto the computer
+
+
+4. Go to Makeracam and upload and select your file
+
+
+5. Make sure the dimensions of the block is right
+
+
+6. Home the machine
+
+
+7. Make sure the fan is on
+
+8. Make sure it is auto leveled
+
+
+9. Make sure to preview to see if it looks right
+
+
+10. Click run after preview 
+
+11. Check for a red light
+
+12. Once it starts going, you can leave it
+
