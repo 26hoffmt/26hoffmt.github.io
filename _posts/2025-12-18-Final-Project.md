@@ -22,6 +22,7 @@ Here is the design specs document that I created: https://docs.google.com/docume
 Here is the list of materials with prices: https://docs.google.com/spreadsheets/d/1SfSwBPdIAURw1k8l9iMx8ntQyuyOnjgF6MBGMapDFN0/edit?gid=0#gid=0 
 
 ### What tools will I use?
+In this project, me and my partner want to incorperate many different tools. The main thing that we will use to create out fan and some of the parts of the base is the 3-d printer. This tool will allow use to disign our parts exactly how we want them and is very presice, which is helpful. I use Fusion 360 for designing with the computers in the lab and the bamboo A1's to print my items. Additonally, we will be coding and using electronics and arduinos to control the movement of the fan and when it should spin. Lastly we will be using a bit of woodworking to make a good looking base for out project.
 
 ### Photos and Media
 ![](/assets/images/Fan_Proto_1.png)
@@ -32,6 +33,8 @@ This is my original prototype of my fan. I used the inspiration youtube video to
 
 This is my second prototype of my fan. I took my same disign of the first fan and changed the blades to be more linear and boxy. This made my fan way easier to print as opposed to what was happening before. Additionally, I also added slits in the body so that I could print the body and the blades seperatly, this also eased my printing process.
 
+
+### Importnat Decisions Being Made
 
 ### Daily Journal
 Hi, this is my daily journal for my final engineering project.
