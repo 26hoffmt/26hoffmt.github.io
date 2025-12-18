@@ -33,8 +33,14 @@ This is my original prototype of my fan. I used the inspiration youtube video to
 
 This is my second prototype of my fan. I took my same disign of the first fan and changed the blades to be more linear and boxy. This made my fan way easier to print as opposed to what was happening before. Additionally, I also added slits in the body so that I could print the body and the blades seperatly, this also eased my printing process.
 
+![](/assets/images/Real_Fan.jpeg)
+
+This is the final physical prototype of my fan that I have right now. As you can see it is more linear and square compared to my other fan and I added slits to help attach the blades. The item on the right is a connecting peice that will allow me to spin the fan by screwing it into the back of the base. While the attachment doesn't fit, I know the issue and will have it fixed soon.
+
 
 ### Importnat Decisions Being Made
+As mentioned before, the most importnat decision that I have made is making my fan more boxy instead of curved. This idea helped me in so many ways and allowed me to continue the project. Another importnat decision was figuring out how we were going to make the fan spin. We solved this by addid the attachment that screws into the back of the fan and can sping the fan. More decisions are to come on fan size and the look of the base. 
+
 
 ### Daily Journal
 Hi, this is my daily journal for my final engineering project.
