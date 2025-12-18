@@ -33,7 +33,8 @@ This is my original prototype of my fan. I used the inspiration youtube video to
 
 This is my second prototype of my fan. I took my same disign of the first fan and changed the blades to be more linear and boxy. This made my fan way easier to print as opposed to what was happening before. Additionally, I also added slits in the body so that I could print the body and the blades seperatly, this also eased my printing process.
 
-![](/assets/images/Real_Fan2.jpeg)
+![](/assets/images/IMG_1760.jpeg)
+This is the first prototype of my fan. As you can see, the print is very difficult to make because the blades are so curved. This will make it harder to take off the supports and to make a good product. After seeing this, I new there needed to be change.
 
 ![](/assets/images/Real_Fan.jpeg)
 
