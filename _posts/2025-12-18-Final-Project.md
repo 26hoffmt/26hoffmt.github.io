@@ -18,6 +18,9 @@ Here is the Youtube video: https://www.youtube.com/watch?v=EMKbMTbNuKI
 ### Design Specs
 Here is the design specs document that I created:
 
+### Materials List and Cost
+Here is the list of materials with prices: https://docs.google.com/spreadsheets/d/1SfSwBPdIAURw1k8l9iMx8ntQyuyOnjgF6MBGMapDFN0/edit?gid=0#gid=0 
+
 ### What tools will I use?
 
 ### Photos and Media
