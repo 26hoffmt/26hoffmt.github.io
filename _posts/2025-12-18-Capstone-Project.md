@@ -20,6 +20,7 @@ My project is different from this in multiple ways. First off, I use fan blades 
 ### Design Specs
 Here is the design specs document that I created: 
 ![](/assets/images/Design.pdf)
+![](/assets/Design.md)
 
 
 ### Materials List and Cost
