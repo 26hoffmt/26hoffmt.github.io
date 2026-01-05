@@ -19,6 +19,7 @@ My project is different from this in multiple ways. First off, I use fan blades 
 
 ### Design Specs
 Here is the design specs document that I created: [https://docs.google.com/document/d/1Mrgn802TQDx7yf9_wHv2wjKiD9UEkIP0wqNP2nEiX4M]
+[https://github.com/26hoffmt/26hoffmt.github.io/blob/fb680579e5e52eca48436bac2139e11dc5d04ccb/assets/Trevor%20Hofman%20-%20Design%20Specification%20Consideration%20Fall%202024.pdf]
 
 ### Materials List and Cost
 Here is the list of materials with prices: [docs]: [https://docs.google.com/spreadsheets/d/1SfSwBPdIAURw1k8l9iMx8ntQyuyOnjgF6MBGMapDFN0/edit?gid=0#gid=0]
