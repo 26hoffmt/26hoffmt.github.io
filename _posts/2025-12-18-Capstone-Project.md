@@ -5,7 +5,7 @@ categories: [general]
 tabs: [update]
 
 ---
-## This is my digital portfolio for my Final Project
+## This is my digital portfolio for my Capstone Project
 
 ### What is this project?
 When coming up with an idea for a project. Me and my partner wanted to do something that was actually useful to our lives. We had many ideas that might have been too ambitious but we settled on a fan project. We knew that we wanted the fan to have lights behind it in order to show cool designs while the fan is spinning. I was tasked with most of the work on making the fan while my partner worked on the electronics and the LED's. A successful project will be good looking all around and show cool light designs, all while actually cooling the area around it.
