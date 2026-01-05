@@ -20,10 +20,16 @@ My project is different from this in multiple ways. First off, I use fan blades 
 ### Design Specs
 I spent mutiple hours using AI, videos, and peers to find out how to add docs to github, but mine would not work. Here is the design specs document that I created and the materials list as screenshots: 
 
+![](/assets/images/IMG_1766.jpg)
+![](/assets/images/IMG_1767.jpg)
+![](/assets/images/IMG_1768.jpg)
+![](/assets/images/IMG_1769.jpg)
+![](/assets/images/IMG_1770.jpg)
 
 
 ### Materials List and Cost
 Here is the list of materials with prices: 
+![](/assets/images/IMG_1765.jpg)
 
 
 
