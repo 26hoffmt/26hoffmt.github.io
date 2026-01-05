@@ -22,7 +22,8 @@ Here is the design specs document that I created: ![](/assets/images/Design.pdf)
 
 
 ### Materials List and Cost
-Here is the list of materials with prices: [docs]: [https://docs.google.com/spreadsheets/d/1SfSwBPdIAURw1k8l9iMx8ntQyuyOnjgF6MBGMapDFN0/edit?gid=0#gid=0]
+Here is the list of materials with prices: 
+
 
 ### What tools will I use?
 In this project, my partner and I want to incorporate many different tools. The main thing that we will use to create our fan and some of the parts of the base is the 3-d printer. This tool will allow us to design our parts exactly how we want them and is very precise, which is helpful. I use Fusion 360 for designing with the computers in the lab and the bamboo A1's to print my items. Additionally, we will be coding and using electronics and arduinos to control the movement of the fan and when it should spin. Lastly we will be using a bit of woodworking to make a good looking base for our project.
