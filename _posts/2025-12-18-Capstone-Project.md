@@ -13,19 +13,18 @@ When coming up with an idea for a project. Me and my partner wanted to do someth
 ### Inspiration
 My inspiration for the fan design was from a youtube video made by Fusion 360. I followed this video step-by-step in making my fan. However, as stated before, the fan did not work well because of the issues in printing. So I used the same model but gave it a couple tweeks to make it work. My blade has the same body but has more linear and boxy blades with slits to fit the blades into the body. 
 
-Here is the Youtube video: [https://www.youtube.com/watch?v=EMKbMTbNuKI]
+Here is the Youtube video: [!](https://www.youtube.com/watch?v=EMKbMTbNuKI)
 
 My project is different from this in multiple ways. First off, I use fan blades that are not curved.  This is to ensure that I can 3D print my fan very easily. I also have slits in my fan base to fit my fan blades into, this also helps with printing and makes the fan stronger in the long run.
 
 ### Design Specs
 Here is the design specs document that I created: 
-![](/assets/images/Design.pdf)
-![](/assets/Design.md)
+
 
 
 ### Materials List and Cost
 Here is the list of materials with prices: 
-![](/assets/images/FanSpreadSheet.png)
+
 
 
 ### What tools will I use?
