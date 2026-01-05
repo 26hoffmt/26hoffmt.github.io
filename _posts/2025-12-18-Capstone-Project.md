@@ -18,7 +18,7 @@ Here is the Youtube video: [!](https://www.youtube.com/watch?v=EMKbMTbNuKI)
 My project is different from this in multiple ways. First off, I use fan blades that are not curved.  This is to ensure that I can 3D print my fan very easily. I also have slits in my fan base to fit my fan blades into, this also helps with printing and makes the fan stronger in the long run.
 
 ### Design Specs
-Here is the design specs document that I created: 
+I spent mutiple hours using AI, videos, and peers to find out how to add docs to github, but mine would not work. Here is the design specs document that I created and the materials list as screenshots: 
 
 
 
