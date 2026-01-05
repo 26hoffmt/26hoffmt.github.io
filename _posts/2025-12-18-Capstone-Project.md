@@ -1,5 +1,5 @@
 ---
-title: "Final Project"
+title: "Capstone Project"
 date: 2025-12-15 03:00:00 -0400
 categories: [general]
 tabs: [update]
