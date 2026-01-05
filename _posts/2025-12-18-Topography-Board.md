@@ -16,11 +16,20 @@ This is a picture of my Topo aspire design. I took the stl file of Lake Tahoe an
 
 ![](/assets/images/CNC.jpeg)
 
+This is a picture of my design on the Makera software ready to be milled.
+
 ![](/assets/images/Aspire.png)
+
+This is the 3-d view of my aspire design
 
 ![](/assets/images/Aspire2.png)
 
+This is the 2-d view of my aspire design
+
 ![](/assets/images/IMG_1764.jpeg)
+
+This is the 3-d printed prototype of my design
+
 
 ![](/assets/images/IMG_1762.jpeg)
 This is the final product of my topography map. I had to find an irregular peice of wood to use because there were not regular pieces left. Nevertheless, the final product came out great.
@@ -28,7 +37,7 @@ This is the final product of my topography map. I had to find an irregular peice
 
 ### Challenges and how I overcame them
 
-This project was very difficult due to the fact that it was a very new concept to me. I had not used a cnc machine in a couple years and had never used aspire before, so making this project was a learning moment and a challenge. When I figured out how to make my map using aspire I milled it, but it didn't work and the mill kept going above the wood. Me and Mr.D figured out the issue and switched the setting so that my map worked correctly.
+This project was very difficult due to the fact that it was a very new concept to me. I had not used a cnc machine in a couple years and had never used aspire before, so making this project was a learning moment and a challenge. When I figured out how to make my map using aspire I milled it, but it didn't work and the mill kept trying to mill the air above the wood. Me and Mr.D figured out the issue and switched the setting in my aspire file so that my map worked correctly.
 
 
 
