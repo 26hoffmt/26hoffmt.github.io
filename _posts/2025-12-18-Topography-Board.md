@@ -20,8 +20,9 @@ This is a picture of my Topo aspire design. I took the stl file of Lake Tahoe an
 
 ![](/assets/images/Aspire2.png)
 
-![](/assets/images/IMG_1762.jpeg)
+![](/assets/images/IMG_1764.jpeg)
 
+![](/assets/images/IMG_1762.jpeg)
 This is the final product of my topography map. I had to find an irregular peice of wood to use because there were not regular pieces left. Nevertheless, the final product came out great.
 
 
