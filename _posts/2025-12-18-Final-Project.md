@@ -15,6 +15,8 @@ My inspiration of the fan design was from a youtube video made by funsion 360. I
 
 Here is the Youtube video: https://www.youtube.com/watch?v=EMKbMTbNuKI 
 
+My project is different from this is multiple ways. First off, I use fan blades that are not curved.  This is to ensure that I can 3D print my fan very easily. I also have slits in my fan base to fit my fan blades into, this also helps with printing makes the fan stronger in the long run.
+
 ### Design Specs
 Here is the design specs document that I created: https://docs.google.com/document/d/1Mrgn802TQDx7yf9_wHv2wjKiD9UEkIP0wqNP2nEiX4M/edit?tab=t.0
 
