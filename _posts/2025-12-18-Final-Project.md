@@ -13,15 +13,15 @@ When coming up with an idea for a project. Me and my partner wanted to do someth
 ### Inspiration
 My inspiration for the fan design was from a youtube video made by Fusion 360. I followed this video step-by-step in making my fan. However, as stated before, the fan did not work well because of the issues in printing. So I used the same model but gave it a couple tweeks to make it work. My blade has the same body but has more linear and boxy blades with slits to fit the blades into the body. 
 
-Here is the Youtube video: https://www.youtube.com/watch?v=EMKbMTbNuKI 
+Here is the Youtube video: [https://www.youtube.com/watch?v=EMKbMTbNuKI] 
 
 My project is different from this in multiple ways. First off, I use fan blades that are not curved.  This is to ensure that I can 3D print my fan very easily. I also have slits in my fan base to fit my fan blades into, this also helps with printing and makes the fan stronger in the long run.
 
 ### Design Specs
-Here is the design specs document that I created: https://docs.google.com/document/d/1Mrgn802TQDx7yf9_wHv2wjKiD9UEkIP0wqNP2nEiX4M/edit?tab=t.0
+Here is the design specs document that I created: [https://docs.google.com/document/d/1Mrgn802TQDx7yf9_wHv2wjKiD9UEkIP0wqNP2nEiX4M/edit?tab=t.0]
 
 ### Materials List and Cost
-Here is the list of materials with prices: https://docs.google.com/spreadsheets/d/1SfSwBPdIAURw1k8l9iMx8ntQyuyOnjgF6MBGMapDFN0/edit?gid=0#gid=0 
+Here is the list of materials with prices: [docs]: [https://docs.google.com/spreadsheets/d/1SfSwBPdIAURw1k8l9iMx8ntQyuyOnjgF6MBGMapDFN0/edit?gid=0#gid=0]
 
 ### What tools will I use?
 In this project, my partner and I want to incorporate many different tools. The main thing that we will use to create our fan and some of the parts of the base is the 3-d printer. This tool will allow us to design our parts exactly how we want them and is very precise, which is helpful. I use Fusion 360 for designing with the computers in the lab and the bamboo A1's to print my items. Additionally, we will be coding and using electronics and arduinos to control the movement of the fan and when it should spin. Lastly we will be using a bit of woodworking to make a good looking base for our project.
