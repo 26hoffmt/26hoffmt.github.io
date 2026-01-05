@@ -14,7 +14,15 @@ tabs: [update]
 
 This is a picture of my Topo aspire design. I took the stl file of Lake Tahoe and turned it into a cnc file that could be milled.
 
-![](/assets/images/Final_Topo.jpeg)
+![](/assets/images/IMG_1763.png)
+
+![](/assets/images/IMG_1764.png)
+
+![](/assets/images/Aspire.png)
+
+![](/assets/images/Aspire2.png)
+
+![](/assets/images/1762.jpeg)
 
 This is the final product of my topography map. I had to find an irregular peice of wood to use because there were not regular pieces left. Nevertheless, the final product came out great.
 
