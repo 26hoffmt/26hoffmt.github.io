@@ -36,9 +36,13 @@ This is the final product of my topography map. I had to find an irregular peice
 
 ### Files
 
-![](/assets/
+![](/assets/TahoeBaseModel(1).crv3d) 
 
-![](/assets/
+This is my aspire file
+
+![](/assets/TrevorTahoeBaseModel(1)(1).cnc)
+
+This is my cnc file
 
 ### Challenges and how I overcame them
 
