@@ -26,7 +26,7 @@ This is the 3-d view of my aspire design
 
 This is the 2-d view of my aspire design
 
-![](/assets/images/IMG_1764.jpeg)
+![](/assets/images/IMG_1771.jpeg)
 
 This is the 3-d printed prototype of my design
 
@@ -34,6 +34,11 @@ This is the 3-d printed prototype of my design
 ![](/assets/images/IMG_1762.jpeg)
 This is the final product of my topography map. I had to find an irregular peice of wood to use because there were not regular pieces left. Nevertheless, the final product came out great.
 
+### Files
+
+![](/assets/
+
+![](/assets/
 
 ### Challenges and how I overcame them
 
