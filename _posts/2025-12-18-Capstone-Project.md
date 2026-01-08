@@ -32,6 +32,9 @@ Here is the list of materials with prices:
 ![](/assets/images/IMG_1765.jpg)
 
 
+### Task Anylysis
+(doc)[https://docs.google.com/document/d/14lSfRL__6Vk2QIAUSACMGxcY_475xuhva8sH5eB8qRk/edit?usp=sharing]
+
 
 ### What tools will I use?
 In this project, my partner and I want to incorporate many different tools. The main thing that we will use to create our fan and some of the parts of the base is the 3-d printer. This tool will allow us to design our parts exactly how we want them and is very precise, which is helpful. I use Fusion 360 for designing with the computers in the lab and the bamboo A1's to print my items. Additionally, we will be coding and using electronics and arduinos to control the movement of the fan and when it should spin. Lastly we will be using a bit of woodworking to make a good looking base for our project. In terms of hand tools I don't expect to use very many. I know that I will need a glue gun to connect certian parts together along with a screwdriver and nails for some of the wood pieces.
