@@ -33,7 +33,7 @@ Here is the list of materials with prices:
 
 
 ### Task Anylysis
-![doc](https://docs.google.com/document/d/14lSfRL__6Vk2QIAUSACMGxcY_475xuhva8sH5eB8qRk/edit?usp=sharing)
+![Task](https://docs.google.com/document/d/14lSfRL__6Vk2QIAUSACMGxcY_475xuhva8sH5eB8qRk)
 
 
 ### What tools will I use?
