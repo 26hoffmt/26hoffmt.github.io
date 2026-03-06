@@ -74,6 +74,8 @@ I additionally had to make decisions regarding the fan base. I had to decide bet
 Lastly, I had to make decisions regarding code and wiring. I wanted to make the fan spin at one speed instead of having a set cycle that it spins through, something that could have been done with the H-Bridge. In the future, I plan to add a potentiometer to allow for adjustment of speed.
 
 
+## Final Summary
+
 ## Daily Journal
 Hi, this is my daily journal for my final engineering project.
 9/16 - Today I started drawings for my final project. I drew a cone to collect rain water and a tube that contains sand and silt to filter out large sediment. I also drew them in a way to think about how I connect the two pieces together.
