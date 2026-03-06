@@ -76,10 +76,8 @@ I additionally had to make decisions regarding the fan base. I had to decide bet
 
 Lastly, I had to make decisions regarding code and wiring. I wanted to make the fan spin at one speed instead of having a set cycle that it spins through, something that could have been done with the H-Bridge. In the future, I plan to add a potentiometer to allow for adjustment of speed.
 
-
-## More Files and Media
-
 ## Project Managment
+For this project, we had a plan via our Gantt Chart. Overall, I feel that we did meet our deadlines and general timeline for the project. Everything took around the time we planned and we have the finished product that we expected to at this time.
 
 ## Final Summary
 The fan project has taught me many things about engineering including time management, planning, troubleshooting, teamwork, and how to use manufacturing processes and coding. In the future I hope that I can take this original fan and turn it into something that I can actually use in my life and that is very easy to work with. I also hope that I can turn the things that I learned from this project into success in college while I am studying engineering.
