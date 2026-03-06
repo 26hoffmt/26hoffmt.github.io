@@ -67,7 +67,11 @@ This is the final physical prototype of my fan that I have right now. As you can
 
 
 ### Important Decisions Being Made
+As seen above, I had been going back and forth between a fan with straight blades and a fan with curved blades. In the end, I decided to go with the fan with curved blades for multiple reasons. Not only does it look better and spin more efficiently, blowing more air in the direction of rotation than the straight blades. It also can be printed in one piece opposed to 8 different pieces that the straight blades would need. I originally thought that the curved blades were not possible due to the fact that the small prototype prints did not go well. But a larger print made the curved blades print better.
 
+I additionally had to make decisions regarding the fan base. I had to decide between a boxy shape and a circle shape. I chose a box shape as it was better able to fit the components like my arduino and breadboard opposed to the circle base. 
+
+Lastly, I had to make decisions regarding code and wiring. I wanted to make the fan spin at one speed instead of having a set cycle that it spins through, something that could have been done with the H-Bridge. In the future, I plan to add a potentiometer to allow for adjustment of speed.
 
 
 ### Daily Journal
