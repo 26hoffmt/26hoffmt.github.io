@@ -18,8 +18,6 @@ Here is the Youtube video: [!Fusion Video](https://www.youtube.com/watch?v=EMKbM
 My project is different from this in multiple ways. First off, I use fan blades that are not curved.  This is to ensure that I can 3D print my fan very easily. I also have slits in my fan base to fit my fan blades into, this also helps with printing and makes the fan stronger in the long run.
 
 ### Design Specs
-I spent mutiple hours using AI, videos, and peers to find out how to add docs to github, but mine would not work. Here is the design specs document that I created and the materials list as screenshots: 
-
 ![](/assets/images/IMG_1766.jpg)
 ![](/assets/images/IMG_1767.jpg)
 ![](/assets/images/IMG_1768.jpg)
@@ -139,4 +137,46 @@ Hi, this is my daily journal for my final engineering project.
 
 
 12/17 - Today, as homework, I worked on updating my github pages.
+
+
+1/6 - Today me and my partner worked on creating a task anylasis sheet for what we have to do with our project. I also finished up my documentation on my capstone project and topography project my adding files and sending them to Mr.Dubick
+
+
+1/7 - Today I continued testing my fan attachment. I got rid of the thread features and I have decided to make the attachment and fan come together with glue instead of screwing on. Me and my partner also worked on our task analysis document.
+
+
+1/8 - Today, I worked on updating my Gantt sheet and my task analysis document. These documents are for me and my partner to plan out what we will work on up to when our project is due.
+
+
+1/9 - Today, I finally got my atatchment for my fan to print and work correctly. From here, I will improve the design slightly and work on attaching the motor to this.
+
+
+1/12 - Today, me and my partner shifted to working on the wiring and coding of our motor for the fan. We have gathered all the materials we need and have created a mock sketch and code on tinkercad.
+
+
+1/14 - Today, I finished my design for the electronics on my fan. I added a diode and switch to a breadboard to allow for more control to the user on the fan.
+
+
+1/20 - Today me and my partner worked on making a physical version of the electornics for our fan. We figured out all of the wiring but the diode. 
+
+
+1/21 - Today I completed the wiring for the diode and I also fixed my coding for the fan motor. We should be able to test out the physical wiring soon.
+
+
+1/22 - Today I finsihed my bradboard wiring for the motor. Tommorrow I will work on soldering the motor on and intergrating the motor with code.
+
+
+1/27-1/28 - On these days, me and Jaden worked on the electronics for our fan. We found a chip that we can use and have soldered on pieces and done research and coding.
+
+
+1/29 - Today we shifted gears on our project revamping the fan design, I worked on making a base for the fan electronics as well.
+
+
+1/30 - 2/20 - This time period was spent coding and wiring our motor. The main issues we had was with the wiring, I could not find a configuration that would spin the motor. I learned a lot about troubleshooting and electronics in order to get the motor to work.
+
+
+2/23 - 2/27 - This week was spent troubleshooting any issues that we had with our fan. I designed a new fan base that can house all of the electrical components and we designed a new fan pole that can house wires and a motor better.
+
+
+3/2 - 3/4 - This week was spent making the final touches on our project. I finished 3-D printing all of the parts and testing all of the pieces. I had to stay after school on these days to ensure the project was finished.
 
