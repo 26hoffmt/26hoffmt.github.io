@@ -15,7 +15,7 @@ My inspiration for the fan design was from a youtube video made by Fusion 360. I
 
 Here is the Youtube video: [!Fusion Video](https://www.youtube.com/watch?v=EMKbMTbNuKI)
 
-My project is different from this in multiple ways. First off, I use fan blades that are not curved.  This is to ensure that I can 3D print my fan very easily. I also have slits in my fan base to fit my fan blades into, this also helps with printing and makes the fan stronger in the long run.
+My project is different from the inspiration because I added the pole and base part of the fan that was designed by me and my partner. I also changed the design sligtly so that the hole for the fan attachment is a different size.
 
 ## Design Specs
 ![](/assets/images/IMG_1766.jpg)
@@ -59,6 +59,7 @@ This is the final physical prototype of my fan that I have right now. As you can
 
 ![](/assets/images/attachment.png)
 
+This is a photo of an attachment I made that fits into the fan blades and attaches to the DC Motor that we used for our project. Because the end of the DC Motor is so small, we needed a very small connector piece for the motor to fit into. In the future, I will integrate this attachment onto the fan blades instead of printing the attachment and fan blades as two separate pieces.
 
 ![](/assets/images/finalbase.png)
 
