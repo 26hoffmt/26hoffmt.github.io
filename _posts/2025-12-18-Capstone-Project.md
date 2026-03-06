@@ -63,9 +63,11 @@ This is a photo of an attachment I made that fits into the fan blades and attach
 
 ![](/assets/images/finalbase.png)
 
+This is the fan base that I designed to house all of the electrical components and to be aesthetically pleasing. The opening that you see is only in the back, the front is flush. The inlet is there so that the USB-C cord can be plugged into various outlets. The base will attach to the rest of the fan via nails and bolts.
 
 ![](/assets/images/finalfan.png)
 
+This is our final product with all of the pieces together. I am very happy with the design and I am happy with how neat it looks. 
 
 ## Important Decisions Being Made
 As seen above, I had been going back and forth between a fan with straight blades and a fan with curved blades. In the end, I decided to go with the fan with curved blades for multiple reasons. Not only does it look better and spin more efficiently, blowing more air in the direction of rotation than the straight blades. It also can be printed in one piece opposed to 8 different pieces that the straight blades would need. I originally thought that the curved blades were not possible due to the fact that the small prototype prints did not go well. But a larger print made the curved blades print better.
