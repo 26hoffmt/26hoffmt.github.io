@@ -5,19 +5,19 @@ categories: [general]
 tabs: [update]
 
 ---
-## This is my digital portfolio for my Capstone Project
+# This is my digital portfolio for my Capstone Project
 
-### What is this project?
+## What is this project?
 When coming up with an idea for a project. Me and my partner wanted to do something that was actually useful to our lives. We had many ideas that might have been too ambitious like a baseball speed gun, or a water purifier, but we settled on a fan project. We knew that we wanted the fan to have lights behind it in order to show cool designs while the fan is spinning. I was tasked with most of the work on making the fan while my partner worked on the electronics and the LED's. A successful project will be good looking all around and show cool light designs, all while actually cooling the area around it.
 
-### Inspiration
+## Inspiration
 My inspiration for the fan design was from a youtube video made by Fusion 360. I followed this video step-by-step in making my fan. However, as stated before, the fan did not work well because of the issues in printing. So I used the same model but gave it a couple tweeks to make it work. My blade has the same body but has more linear and boxy blades with slits to fit the blades into the body. 
 
 Here is the Youtube video: [!Fusion Video](https://www.youtube.com/watch?v=EMKbMTbNuKI)
 
 My project is different from this in multiple ways. First off, I use fan blades that are not curved.  This is to ensure that I can 3D print my fan very easily. I also have slits in my fan base to fit my fan blades into, this also helps with printing and makes the fan stronger in the long run.
 
-### Design Specs
+## Design Specs
 ![](/assets/images/IMG_1766.jpg)
 ![](/assets/images/IMG_1767.jpg)
 ![](/assets/images/IMG_1768.jpg)
@@ -25,19 +25,19 @@ My project is different from this in multiple ways. First off, I use fan blades 
 ![](/assets/images/IMG_1770.jpg)
 
 
-### Materials List and Cost
+## Materials List and Cost
 Here is the list of materials with prices: 
 ![](/assets/images/IMG_1765.jpg)
 
 
-### Task Anylysis
+## Task Anylysis
 [Task](https://docs.google.com/document/d/14lSfRL__6Vk2QIAUSACMGxcY_475xuhva8sH5eB8qRk)
 
 
-### What tools will I use?
+## What tools will I use?
 In this project, my partner and I want to incorporate many different tools. The main thing that we will use to create our fan and some of the parts of the base is the 3-d printer. This tool will allow us to design our parts exactly how we want them and is very precise, which is helpful. I use Fusion 360 for designing with the computers in the lab and the bamboo A1's to print my items. Additionally, we will be coding and using electronics and arduinos to control the movement of the fan and when it should spin. Lastly we will be using a bit of woodworking to make a good looking base for our project. In terms of hand tools I don't expect to use very many. I know that I will need a glue gun to connect certian parts together along with a screwdriver and nails for some of the wood pieces.
 
-### Photos and Media
+## Photos and Media
 ![](/assets/images/Fan_Proto_1.png)
 
 This is my original prototype of my fan. I used the inspiration youtube video to make this fan myself. The issue that I had was printing the fan. It was hard to print this with the slope of the fan blades and I could not get a good prototype. So I shifted to prototype 2. 
@@ -66,7 +66,7 @@ This is the final physical prototype of my fan that I have right now. As you can
 ![](/assets/images/finalfan.png)
 
 
-### Important Decisions Being Made
+## Important Decisions Being Made
 As seen above, I had been going back and forth between a fan with straight blades and a fan with curved blades. In the end, I decided to go with the fan with curved blades for multiple reasons. Not only does it look better and spin more efficiently, blowing more air in the direction of rotation than the straight blades. It also can be printed in one piece opposed to 8 different pieces that the straight blades would need. I originally thought that the curved blades were not possible due to the fact that the small prototype prints did not go well. But a larger print made the curved blades print better.
 
 I additionally had to make decisions regarding the fan base. I had to decide between a boxy shape and a circle shape. I chose a box shape as it was better able to fit the components like my arduino and breadboard opposed to the circle base. 
@@ -74,7 +74,7 @@ I additionally had to make decisions regarding the fan base. I had to decide bet
 Lastly, I had to make decisions regarding code and wiring. I wanted to make the fan spin at one speed instead of having a set cycle that it spins through, something that could have been done with the H-Bridge. In the future, I plan to add a potentiometer to allow for adjustment of speed.
 
 
-### Daily Journal
+## Daily Journal
 Hi, this is my daily journal for my final engineering project.
 9/16 - Today I started drawings for my final project. I drew a cone to collect rain water and a tube that contains sand and silt to filter out large sediment. I also drew them in a way to think about how I connect the two pieces together.
 
