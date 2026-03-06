@@ -57,9 +57,17 @@ This is the first prototype of my fan. As you can see, the print is very difficu
 
 This is the final physical prototype of my fan that I have right now. As you can see it is more linear and square compared to my other fan and I added slits to help attach the blades. The item on the right is a connecting peice that will allow me to spin the fan by screwing it into the back of the base. While the attachment doesn't fit, I know the issue and will have it fixed soon.
 
+![](/assets/images/attachment.png)
+
+
+![](/assets/images/finalbase.png)
+
+
+![](/assets/images/finalfan.png)
+
 
 ### Important Decisions Being Made
-As mentioned before, the most important decision that I have made is making my fan more boxy instead of curved. This idea helped me in so many ways and allowed me to continue the project. Another important decision was figuring out how we were going to make the fan spin. We solved this by adding the attachment that screws into the back of the fan and can spin the fan. More decisions are to come on fan size and the look of the base. 
+
 
 
 ### Daily Journal
