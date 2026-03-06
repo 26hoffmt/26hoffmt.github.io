@@ -77,6 +77,8 @@ I additionally had to make decisions regarding the fan base. I had to decide bet
 Lastly, I had to make decisions regarding code and wiring. I wanted to make the fan spin at one speed instead of having a set cycle that it spins through, something that could have been done with the H-Bridge. In the future, I plan to add a potentiometer to allow for adjustment of speed.
 
 
+## More Files and Media
+
 ## Project Managment
 
 ## Final Summary
